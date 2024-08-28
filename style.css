@@ -1,0 +1,58 @@
+
+
+#aboutme {
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 4px 30px rgba(255, 215, 0, 0.5); /* Gold box shadow */
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    width: 30%;
+    text-align: center;
+    color: #333;
+}
+
+#CL
+{
+    background-color: rgb(221, 185, 77);
+}
+
+div
+{
+    background-image: linear-gradient(to left , gold,white);
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-image: linear-gradient(to left , red,blue);
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: black;
+}
+
+#players_plan {   
+  background-color: rgb(255, 255, 255);
+  color: black;
+}
+
+td,table,tr
+{
+  border: solid rgb(0, 0, 0) 2px;
+}
